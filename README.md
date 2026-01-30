@@ -59,7 +59,8 @@ Start chatting with AI 🎉
 
 📸 Screenshots
 
-(Add a screenshot of your working chatbot here)
+<img width="891" height="880" alt="image" src="https://github.com/user-attachments/assets/6026bdd0-2312-45a2-99f1-f43ab777f4d7" />
+
 
 🎯 What I Learned
 
